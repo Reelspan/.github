@@ -12,8 +12,19 @@
 <p align="center">
   <a href="https://reelspan.com">Website</a> ·
   <a href="https://reelspan.com/docs">Docs</a> ·
-  <a href="https://reelspan.com/docs/reference">API reference</a> ·
-  <a href="https://x.com/reelspanapp">X</a>
+  <a href="https://reelspan.com/docs/reference">API reference</a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/reelspanapp">X</a> ·
+  <a href="https://www.linkedin.com/company/reelspanhq">LinkedIn</a> ·
+  <a href="https://www.youtube.com/@reelspan">YouTube</a> ·
+  <a href="https://www.instagram.com/reelspanapp">Instagram</a> ·
+  <a href="https://www.tiktok.com/@reelspan">TikTok</a> ·
+  <a href="https://www.facebook.com/reelspanapp">Facebook</a> ·
+  <a href="https://www.threads.com/@reelspanapp">Threads</a> ·
+  <a href="https://bsky.app/profile/reelspan.bsky.social">Bluesky</a> ·
+  <a href="https://www.pinterest.com/reelspanapp">Pinterest</a>
 </p>
 
 ### Official SDKs
