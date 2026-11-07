@@ -2,11 +2,11 @@
   <a href="https://reelspan.com"><img src="https://raw.githubusercontent.com/Reelspan/.github/main/profile/logo.png" width="72" alt="Reelspan"></a>
 </p>
 
-<h3 align="center">One API to publish to 22 social networks</h3>
+<h3 align="center">One API to publish to every major social network</h3>
 
 <p align="center">
   Post videos, photos and text to TikTok, YouTube, Instagram, Facebook, X, Threads, LinkedIn, Pinterest, Bluesky,
-  Reddit and 12 more networks from a single call. Schedule it, queue it, and read how each post did.
+  Reddit and more from a single call. Schedule it, queue it, and read how each post did.
 </p>
 
 <p align="center">
